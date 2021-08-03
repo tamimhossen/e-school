@@ -113,3 +113,43 @@ header{
 .card-footer{
     width: 100%;
 }
+
+.client{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.margin{
+    margin: 50px 150px;
+}
+
+.footer{
+    height: 370px;
+    max-width: 1440px;
+    background-color: #282531;
+}
+
+.color-white{
+    color: rgb(184, 184, 184);
+}
+
+.footer-row{
+    margin-top: 55px;
+}
+
+.line{
+    line-height: 2px;
+}
+
+.col-md-2{
+    width: 200px;
+}
+
+.copywrite{
+    text-align: center;
+}
